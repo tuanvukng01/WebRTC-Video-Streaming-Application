@@ -29,10 +29,10 @@ This project is a simple WebRTC-based video streaming application that allows us
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/webrtc-video-streaming.git
-   cd webrtc-video-streaming
-   ```
-
+   git clone https://github.com/tuanvukng01/WebRTC-Video-Streaming-Application.git
+   cd WebRTC-Video-Streaming-Application
+    ```
+   
 2. **Install dependencies**:
    ```bash
    npm install
